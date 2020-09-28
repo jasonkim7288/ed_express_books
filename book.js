@@ -1,14 +1,14 @@
 const books = [
     {
       id: 1,
-      name: 'Harry Potter 1',
-      author: 'JK Rowling',
+      name: 'IT',
+      author: 'Stephen King',
       movie: true
     },
     {
       id: 2,
-      name: 'Brave New World',
-      author: 'Aldous Huxley',
+      name: 'Looking for Alaska',
+      author: 'John Green',
       movie: false 
     }
   ]
